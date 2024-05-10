@@ -55,7 +55,7 @@ Pokud máte zájem o více informací nebo byste chtěli spolupracovat, neváhej
 💬 - **Matrix**: [@archos:mxchat.cz](https://matrix.to/#/@archos:mxchat.cz)
 
 
-- **XMPP**: ![XMPP](https://github.com/zkreml/zkreml/blob/main/loga/xmpp-logo.svg) [archos@arch-linux.cz](xmpp:archos@arch-linux.cz)
+- **XMPP**: [archos@arch-linux.cz](xmpp:archos@arch-linux.cz)
 
 
 Děkuji za návštěvu mé stránky a těším se na možnou spolupráci!
