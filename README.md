@@ -48,7 +48,7 @@ Veškeré tyto aplikace jsou nabízeny zdarma. Pokud chcete podpořit jejich pro
 ## Kontakt
 Pokud máte zájem o více informací nebo byste chtěli spolupracovat, neváhejte mě kontaktovat:
 
-📧 - **Email**: [archos@arch-linux.cz](mailto:archos@ach-linux.cz)
+<a href="https://www.flaticon.com/free-icons/gmail" title="gmail icons">Gmail icons created by Vector Squad - Flaticon</a> [archos@arch-linux.cz](mailto:archos@ach-linux.cz)
 
 🔐 - **PGP Klíč**:  Pro bezpečnější komunikaci můžete použít můj PGP klíč. [Stáhnout PGP klíč <i class="fa fa-key"></i>](https://keys.openpgp.org/vks/v1/by-fingerprint/DB711DE3EA9FAAFB313AEE4CF736D5CD9CED44E8)
  
