@@ -38,7 +38,7 @@ Věnuji se správě a hostování různých aplikací, které přibližují lide
 - 📝 **PrivateBin** - [privatebin.arch-linux.cz](https://privatebin.arch-linux.cz)  
   Platforma pro bezpečné sdílení textů a údajů.
 
-- 🖥️ **Gitea Instance** - [git.arch-linux.cz](https://git.arch-linux.cz)  
+-https://github.com/zkreml/zkreml/blob/main/loga/square-git.svg **Gitea Instance** - [git.arch-linux.cz](https://git.arch-linux.cz)  
   Správa a hostování naší Gitea instance pro open-source projekty a spolupráci.
 
 ## Další Webové Aplikace
